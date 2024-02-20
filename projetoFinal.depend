@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1701883821 source:c:\users\ednal\onedrive\Área de trabalho\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1701878634 c:\users\ednal\onedrive\Área de trabalho\projetofinal\projetofinal.h
+
+1701878634 source:c:\users\ednal\onedrive\Área de trabalho\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1701878636 source:c:\users\aluno\downloads\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1701878636 c:\users\aluno\downloads\projetofinal\projetofinal.h
+
+1701907980 source:c:\users\aluno\downloads\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1701878636 source:e:\projetofinal_pedrohenriquelauton\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1701878636 e:\projetofinal_pedrohenriquelauton\projetofinal\projetofinal.h
+
+1701910378 source:e:\projetofinal_pedrohenriquelauton\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702320618 source:c:\users\ednal\downloads\projetofinal_pedrohenriquelauton_busca_corrigida\projetofinal_pedrohenriquelauton\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702313132 c:\users\ednal\downloads\projetofinal_pedrohenriquelauton_busca_corrigida\projetofinal_pedrohenriquelauton\projetofinal\projetofinal.h
+
+1702319037 source:c:\users\ednal\downloads\projetofinal_pedrohenriquelauton_busca_corrigida\projetofinal_pedrohenriquelauton\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702320620 source:c:\users\ednal\downloads\projetofinal (1)\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702313134 c:\users\ednal\downloads\projetofinal (1)\projetofinal\projetofinal.h
+
+1702319038 source:c:\users\ednal\downloads\projetofinal (1)\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702320620 source:c:\users\ednal\downloads\arquivos\projetofinal (1)\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
+1702313134 c:\users\ednal\downloads\arquivos\projetofinal (1)\projetofinal\projetofinal.h
+
+1702319038 source:c:\users\ednal\downloads\arquivos\projetofinal (1)\projetofinal\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"projetoFinal.h"
+
