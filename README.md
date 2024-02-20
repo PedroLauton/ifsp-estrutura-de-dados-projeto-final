@@ -57,4 +57,3 @@ Este é um projeto em C que implementa um sistema para controle de inserção, r
 
 - Caio Dib;
 - Pedro Lauton.
-- 
